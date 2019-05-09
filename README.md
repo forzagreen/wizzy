@@ -1,6 +1,7 @@
 # TODO:
 - autocompletion: https://iridakos.com/tutorials/2018/03/01/bash-programmable-completion-tutorial.html
 https://www.terraform.io/docs/commands/index.html#shell-tab-completion
+- Notes after modifying a dashboard
 
 
 [wizzy](https://utkarshcmu.github.io/wizzy-site/home/) [![npm version](https://badge.fury.io/js/wizzy.svg)](https://badge.fury.io/js/wizzy) [![Circle CI](https://circleci.com/gh/utkarshcmu/wizzy.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/utkarshcmu/wizzy)
